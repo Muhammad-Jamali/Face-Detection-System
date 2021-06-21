@@ -189,9 +189,9 @@ $RECYCLE.BIN/
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
-./.vscode/*
-./Dataset/*
-./temp/*
-./dataset_y.csv
-./dataset.csv
-./finalized_model.sav
+.vscode/*
+Dataset/*
+temp/*
+dataset_y.csv
+dataset.csv
+finalized_model.sav
